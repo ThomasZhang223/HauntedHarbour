@@ -1,0 +1,18 @@
+﻿  BackgroundObject.cpp
+  BulletObject.cpp
+  FlyingEnemy.cpp
+C:\Users\Thoma\Desktop\Coding\RP4K\HauntedHarbour_GD\HauntedHarbour_GD\FlyingEnemy.cpp(54,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thoma\Desktop\Coding\RP4K\HauntedHarbour_GD\HauntedHarbour_GD\FlyingEnemy.cpp(55,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thoma\Desktop\Coding\RP4K\HauntedHarbour_GD\HauntedHarbour_GD\FlyingEnemy.cpp(115,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thoma\Desktop\Coding\RP4K\HauntedHarbour_GD\HauntedHarbour_GD\FlyingEnemy.cpp(122,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GraphicsObject.cpp
+  GreenBullet.cpp
+  GroundEnemy.cpp
+  HauntedHarbour_GD.cpp
+  LifeBar.cpp
+C:\Users\Thoma\Desktop\Coding\RP4K\HauntedHarbour_GD\HauntedHarbour_GD\LifeBar.cpp(13,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PlayerObject.cpp
+  PurpleBullet.cpp
+  WeaponsObject.cpp
+  Generating Code...
+  HauntedHarbour_GD.vcxproj -> C:\Users\Thoma\Desktop\Coding\RP4K\HauntedHarbour_GD\Debug\HauntedHarbour_GD.exe
